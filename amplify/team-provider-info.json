@@ -13,7 +13,10 @@
     },
     "categories": {
       "function": {
-        "FileHandler": {}
+        "FileHandler": {
+          "deploymentBucketName": "amplify-elephantproto-dev-165707-deployment",
+          "s3Key": "amplify-builds/FileHandler-4571696d385972624a44-build.zip"
+        }
       }
     }
   }

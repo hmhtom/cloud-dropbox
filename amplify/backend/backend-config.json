@@ -1,25 +1,28 @@
 {
-  "api": {
-    "api70eff6d8": {
-      "dependsOn": [
-        {
-          "attributes": [
-            "Name",
-            "Arn"
-          ],
-          "category": "function",
-          "resourceName": "FileHandler"
-        }
-      ],
-      "providerPlugin": "awscloudformation",
-      "service": "API Gateway"
-    }
-  },
+  "api": {},
   "function": {
     "FileHandler": {
       "build": true,
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_FileHandler_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "FileHandler"
+        }
+      ]
+    },
+    "AMPLIFY_function_FileHandler_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "FileHandler"
+        }
+      ]
     }
   }
 }
