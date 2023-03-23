@@ -1,9 +1,13 @@
 export type AmplifyDependentResourcesAttributes = {
-  "api": {
-    "api70eff6d8": {
-      "ApiId": "string",
-      "ApiName": "string",
-      "RootUrl": "string"
+  "auth": {
+    "elephantproto": {
+      "AppClientID": "string",
+      "AppClientIDWeb": "string",
+      "IdentityPoolId": "string",
+      "IdentityPoolName": "string",
+      "UserPoolArn": "string",
+      "UserPoolId": "string",
+      "UserPoolName": "string"
     }
   },
   "function": {

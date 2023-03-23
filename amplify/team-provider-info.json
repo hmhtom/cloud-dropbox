@@ -10,14 +10,6 @@
       "StackName": "amplify-elephantproto-dev-165707",
       "StackId": "arn:aws:cloudformation:ca-central-1:206877955674:stack/amplify-elephantproto-dev-165707/47c8fe70-c9bd-11ed-be24-06b13b588ba4",
       "AmplifyAppId": "d2e9gv5vpw2mt3"
-    },
-    "categories": {
-      "function": {
-        "FileHandler": {
-          "deploymentBucketName": "amplify-elephantproto-dev-165707-deployment",
-          "s3Key": "amplify-builds/FileHandler-4571696d385972624a44-build.zip"
-        }
-      }
     }
   }
 }
