@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-elephantproto-dev-165707-authRole",
+      "UnauthRoleArn": "arn:aws:iam::206877955674:role/amplify-elephantproto-dev-165707-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::206877955674:role/amplify-elephantproto-dev-165707-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-elephantproto-dev-165707-deployment",
+      "UnauthRoleName": "amplify-elephantproto-dev-165707-unauthRole",
+      "StackName": "amplify-elephantproto-dev-165707",
+      "StackId": "arn:aws:cloudformation:ca-central-1:206877955674:stack/amplify-elephantproto-dev-165707/47c8fe70-c9bd-11ed-be24-06b13b588ba4",
+      "AmplifyAppId": "d2e9gv5vpw2mt3"
+    },
+    "categories": {
+      "function": {
+        "FileHandler": {}
+      }
+    }
+  }
+}
