@@ -1,6 +1,6 @@
 export type AmplifyDependentResourcesAttributes = {
   "auth": {
-    "elephantproto": {
+    "elephantprotof8ff175e": {
       "AppClientID": "string",
       "AppClientIDWeb": "string",
       "IdentityPoolId": "string",
@@ -10,12 +10,9 @@ export type AmplifyDependentResourcesAttributes = {
       "UserPoolName": "string"
     }
   },
-  "function": {
-    "FileHandler": {
-      "Arn": "string",
-      "LambdaExecutionRole": "string",
-      "LambdaExecutionRoleArn": "string",
-      "Name": "string",
+  "storage": {
+    "s3elephantprotostoragef615f932": {
+      "BucketName": "string",
       "Region": "string"
     }
   }

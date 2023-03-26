@@ -10,6 +10,15 @@
       "StackName": "amplify-elephantproto-dev-165707",
       "StackId": "arn:aws:cloudformation:ca-central-1:206877955674:stack/amplify-elephantproto-dev-165707/47c8fe70-c9bd-11ed-be24-06b13b588ba4",
       "AmplifyAppId": "d2e9gv5vpw2mt3"
+    },
+    "categories": {
+      "auth": {
+        "elephantproto41a9ac94": {},
+        "elephantprotof8ff175e": {}
+      },
+      "storage": {
+        "s3elephantprotostoragef615f932": {}
+      }
     }
   }
 }
